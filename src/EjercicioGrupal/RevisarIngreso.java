@@ -54,7 +54,7 @@ public class RevisarIngreso extends HttpServlet {
 			
 		}
 		else {
-			request.getRequestDispatcher("Login.jsp").forward(request, response);
+			
 		}
 		
 	}
